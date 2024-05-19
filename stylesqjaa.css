@@ -1,0 +1,50 @@
+body{background-image: url(tausta.jpg);
+    background-position: center;
+    background-size: cover;}
+    
+    .navbar {
+        background-color: black !important;
+    }
+    .navbar .nav-link { color:azure !important}
+    
+    .navbar-brand {
+        color: white !important;
+    }
+    
+    h1, h2{text-align: center;}
+    
+
+    
+    .container {
+        text-align: center;
+        border: 20px;
+        
+    }
+    .container2  {
+        background-color: grey;
+        border-style:none;
+        border-width: 5px;
+        text-align: center;
+        width: 50%; 
+        margin: 0 auto;
+        border-radius: 20px;
+        padding: 20px;
+    }
+
+    
+
+    .container9{ background-color: blanchedalmond;
+       width: 70%;
+   margin:auto
+}
+
+
+
+
+
+section{ padding: 50px;
+background-color: cadetblue;
+text-align: center;
+  width: 70%;
+margin:auto}
+    
